@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+.center {
+  background: url("../img/bg.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+  .center .fa {
+    font-size: 20px;
+    color: black; }
+
+.body a:hover {
+  background: black; }
+
+.dropdown-menu a:hover {
+  background: #0d6a96; }
+
+.start {
+  background: #717781; }
+
+@media (max-width: 767px) {
+  .table2 {
+    display: none; } }
